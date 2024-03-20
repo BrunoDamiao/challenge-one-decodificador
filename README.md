@@ -17,4 +17,4 @@
   u     |        ufat|
 
 ## Acessar projeto
-### [Acesse o projeto publicado clicando aqui](https://eridanpaz.github.io/alura-decodificador/)
+### [Acesse o projeto publicado clicando aqui](https://brunodamiao.github.io/challenge-one-decodificador/)
